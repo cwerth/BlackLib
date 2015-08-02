@@ -139,7 +139,7 @@ namespace BlackLib
             *  This function sets pin direction to input or output. Pin directions are input at default.
             *  @return True if setting direction is successful, else false.
             */
-            bool            setDirection();
+            bool            setDirection();   
 
             /*! @brief Unexports pin to release it.
             *
